@@ -8,7 +8,6 @@ Modpack for a Valheim server
 - [Running Skill Give More Carry Weight](https://www.nexusmods.com/valheim/mods/47)
 - [More Slots](https://www.nexusmods.com/valheim/mods/103)
 - [Passive Forsaken Powers](https://www.nexusmods.com/valheim/mods/390)
-- [Pickable Time Fix](https://www.nexusmods.com/valheim/mods/335)
 - [Skill Injector](https://www.nexusmods.com/valheim/mods/341)
 - [Gathering Skill](https://www.nexusmods.com/valheim/mods/342)
 - [ServerSideMap](https://www.nexusmods.com/valheim/mods/88)

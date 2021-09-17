@@ -1,8 +1,9 @@
 # VestfjordModpack
-Modpack for a Valheim server
+Modpack for Vestfjord Valheim server
 # Core
 - [BepInExPack Valheim](https://valheim.thunderstore.io/package/denikson/BepInExPack_Valheim/)
-- [JotunnLib](https://www.nexusmods.com/valheim/mods/507)
+- [Jotunn the Valheim Library](https://www.nexusmods.com/valheim/mods/1138)
+- [HookGenPatcher](https://www.nexusmods.com/valheim/mods/505)
 # Mods
 - [Repair All](https://www.nexusmods.com/valheim/mods/26)
 - [Running Skill Give More Carry Weight](https://www.nexusmods.com/valheim/mods/47)
@@ -13,4 +14,4 @@ Modpack for a Valheim server
 - [ServerSideMap](https://www.nexusmods.com/valheim/mods/88)
 - [Plant Everything](https://www.nexusmods.com/valheim/mods/1042)
 - [More Gates](https://www.nexusmods.com/valheim/mods/1087)
-- [Build Expansion](https://www.nexusmods.com/valheim/mods/950)
+- [FarmGrid](https://www.nexusmods.com/valheim/mods/449)

@@ -18,7 +18,9 @@ a="/$0"; a=${a%/*}; a=${a#/}; a=${a:-.}; BASEDIR=$(cd "$a"; pwd -P)
 # Special case: program is launched via Steam
 # In that case rerun the script via their bootstrapper to ensure Steam overlay works
 if [ "$2" = "SteamLaunch" ]; then
-    "$1" "$2" "$3" "$4" "$0" "$5"
+    cmd="$1 $2 $3 $4 $0"
+    shift 4
+    exec $cmd $@
     exit
 fi
 
@@ -51,6 +53,7 @@ while :; do
         --doorstop-dll-search-override)
             if [ -n "$2" ]; then
                 export DOORSTOP_CORLIB_OVERRIDE_PATH="$2"
+                shift
             else
                 echo "No --doorstop-dll-search-override value specified, using default!"
             fi

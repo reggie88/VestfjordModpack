@@ -3,7 +3,6 @@ Modpack for Vestfjord Valheim server
 # Core
 - [BepInExPack Valheim](https://valheim.thunderstore.io/package/denikson/BepInExPack_Valheim/)
 - [Jotunn the Valheim Library](https://www.nexusmods.com/valheim/mods/1138)
-- [HookGenPatcher](https://www.nexusmods.com/valheim/mods/505)
 # Mods
 - [Repair All](https://www.nexusmods.com/valheim/mods/26)
 - [Running Skill Give More Carry Weight](https://www.nexusmods.com/valheim/mods/47)
